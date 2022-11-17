@@ -1,0 +1,121 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+	background-color: #0000FF;
+	color: #FFFFFF;
+	padding-left: 80px;
+}
+.titulo-principal {
+	padding: 30px;	
+}
+.paragrafo-titulo {
+	padding: 20px;
+	font-size: 150px;
+	text-align: left;
+	margin-right: 40%;
+	padding-bottom: 100px;
+}
+.depoimento {
+	color: #A9A9A9;
+	padding-left: 500px;
+	text-align: left;
+	padding-right: 40px;
+	font-size: 25px;
+}
+.titulo-dois {
+	background-color: #FFFFFF;
+	color: #000000;
+	padding-left: 80px;
+	font-size: 120px;
+	text-align: left;
+	margin-right: 30%;
+}
+.imagem1 {
+	width: 25%;
+	padding-left: 80px;
+}
+.imagem2 {
+	width: 25%;
+}
+.services {
+	background: #000000;
+	padding: 210px;
+	color:#FFFFFF;
+}
+.service-title1 {
+	margin-top: 60px;
+	margin-left: 2px;
+	margin-right: 630px;
+	font-size: 40px;
+}	
+.service1 {
+	margin-top: 60px;
+	margin-left: 2px;
+	margin-right: 630px;
+	font-size: 20px;
+}
+.service-title2 {
+	margin-top: 60px;
+	margin-left: 630px;
+	margin-right: 60px;
+	font-size: 40px;
+}	
+.service2 {
+	margin-top: 60px;
+	margin-left: 630px;
+	margin-right: 30px;
+	font-size: 20px;
+}
+.imagempeople {
+	float: right;
+	width: 45%; 
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 60px;
+}
+.purpouse {
+	text-align: center;
+	font-size: 80px;
+	margin-top: 150px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+strong {
+	color: blue;
+}
+.imagem3 {
+	width: 70%; 
+	margin-top: 50px;
+	margin-left: 220px;
+	margin-right: 100px;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 100px;
+	width: 40%;
+	margin-left: 15%;
+	font-size: 20px;
+	line-height: 3;
+	color: #A9A9A9;
+	margin-bottom: 80px;
+}
+.newprojects {
+	background-color: #0000FF;
+	color: #FFFFFF;
+	width: 90%;
+	margin-left: 50px;
+	margin-right: 10px;
+	padding-left: 50px;
+	padding-top: 40px;
+	padding-bottom: 100px;                 
+}
+.new {
+	padding: 20px;
+	font-size: 80px;
+	text-align: left;
+	margin-right: 60%;
+	margin-top: 120px;
+
+}
